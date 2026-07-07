@@ -1,2 +1,3 @@
 This is a dummy file!
 This is also dummy, but it will create a merge conflict.
+Another conflict!
